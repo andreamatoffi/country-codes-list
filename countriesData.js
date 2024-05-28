@@ -1520,6 +1520,22 @@ module.exports = [
     "flag": "🇮🇸"
   },
   {
+    "countryNameEn": "Czech Republic",
+    "countryNameLocal": "Česká republika",
+    "countryCode": "CS",
+    "currencyCode": "CZK",
+    "currencyNameEn": "Czech Republic",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "cs",
+    "officialLanguageNameEn": "Czech",
+    "officialLanguageNameLocal": "Čeština",
+    "countryCallingCode": "420",
+    "areaCodes": [],
+    "region": "Europe",
+    "flag": "🇨🇿"
+  },
+  {
     "countryNameEn": "Italy",
     "countryNameLocal": "Italia",
     "countryCode": "IT",
